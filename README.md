@@ -1,2 +1,3 @@
-# chapter1
-# chapter1-of-thinking-in-swiftui
+# Chapter1 of Thinking in SwiftUI
+
+This chapter is a general overview of how SwiftUI constructs and update views.
